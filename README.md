@@ -1,5 +1,6 @@
 # coursera-deep-learning
 My notes/works from Coursera's Deep Learning Specialization course.
+
 Instructor: [Andrew Ng](https://www.andrewng.org)
 
 # Introduction
