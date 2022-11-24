@@ -9,5 +9,5 @@ This repository contains my solutions to Coursera's Deep Learning Specialization
 # Contents
 [to be added]
 
-# Coursera
+# License
 Coursera is licensed under the [MIT License](https://github.com/duarteoliper/coursera-deep-learning/blob/main/LICENSE).
